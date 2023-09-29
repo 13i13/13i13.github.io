@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae46061a.css",
+    "main.js": "/static/js/main.10b11955.js",
+    "static/js/787.3153780d.chunk.js": "/static/js/787.3153780d.chunk.js",
+    "static/media/PirataOne-Regular.ttf": "/static/media/PirataOne-Regular.269bd2986eb6f1940505.ttf",
+    "static/media/logo.svg": "/static/media/logo.4b0048fa221e57a751a0eccec2f740d2.svg",
+    "index.html": "/index.html",
+    "main.ae46061a.css.map": "/static/css/main.ae46061a.css.map",
+    "main.10b11955.js.map": "/static/js/main.10b11955.js.map",
+    "787.3153780d.chunk.js.map": "/static/js/787.3153780d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae46061a.css",
+    "static/js/main.10b11955.js"
+  ]
+}
