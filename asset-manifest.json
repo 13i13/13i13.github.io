@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7810b48b.css",
-    "main.js": "/static/js/main.993a88a6.js",
+    "main.js": "/static/js/main.beab6379.js",
     "static/js/787.3153780d.chunk.js": "/static/js/787.3153780d.chunk.js",
     "static/media/PirataOne-Regular.ttf": "/static/media/PirataOne-Regular.269bd2986eb6f1940505.ttf",
     "static/media/logo.svg": "/static/media/logo.4b0048fa221e57a751a0eccec2f740d2.svg",
     "index.html": "/index.html",
     "main.7810b48b.css.map": "/static/css/main.7810b48b.css.map",
-    "main.993a88a6.js.map": "/static/js/main.993a88a6.js.map",
+    "main.beab6379.js.map": "/static/js/main.beab6379.js.map",
     "787.3153780d.chunk.js.map": "/static/js/787.3153780d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7810b48b.css",
-    "static/js/main.993a88a6.js"
+    "static/js/main.beab6379.js"
   ]
 }
